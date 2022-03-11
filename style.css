@@ -1,0 +1,18 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000f1f;
+}
+#canvas
+{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    position: relative;
+    top: 25vh;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 20px rgba(0,0,0,9.9);
+}
